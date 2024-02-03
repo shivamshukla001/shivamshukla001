@@ -7,9 +7,9 @@ Software Engineer
 I've been learning to code for 2 years. i started With Frontend Development
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [MY PORTFOLIO](http://https://github.com/)
+*   🖥️
 *   ✉️  You can contact me at [www.linkedin.com/in/ shivam-shukla-118870249,](mailto:www.linkedin.com/in/ shivam-shukla-118870249, )
-*   🚀  I'm currently working on [Myapp](http://github.com/shivamshukla001)
+*   🚀
 *   🧠  I'm learning NodeJS,Tailwind
 *   🤝  I'm open to collaborating on FrontEnd Projects
 *   ⚡  I love Cats You Know what i mean :)
